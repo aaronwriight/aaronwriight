@@ -1,4 +1,3 @@
-## about
 Hey, I'm Aaron! I study language and emotions in the brain (and hike and take photos sometimes) :)
 <br>
 {language} • {bilingualism} • {emotion} • {fMRI} • {data viz}
