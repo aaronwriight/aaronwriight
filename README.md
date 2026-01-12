@@ -1,3 +1,3 @@
-Hey, I'm Aaron! I study language and emotions in the brain (and hike and take photos sometimes) :)
+Hey, I'm Aaron! I study how the human brain processes language and supports communication (and hike and take photos sometimes) :)
 <br>
-{language} • {bilingualism} • {emotion} • {fMRI} • {data viz}
+language • bilingualism & culture • emotion • fMRI • data viz
